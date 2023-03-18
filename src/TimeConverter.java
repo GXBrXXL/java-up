@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class DateConverter {
+public class TimeConverter {
     public static void main(String[] args){
         Scanner read = new Scanner(System.in);
         System.out.print("Enter the time in seconds: ");
